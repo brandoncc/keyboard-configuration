@@ -1,0 +1,8 @@
+startup_file=y_qwerty.txt
+key_click_tone=OFF
+toggle_tone=ON
+macro_disable=OFF
+macro_speed=9
+status_play_speed=3
+power_user=true
+
