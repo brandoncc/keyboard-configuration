@@ -1,4 +1,4 @@
-startup_file=y_qwerty.txt
+startup_file=qwerty.txt
 key_click_tone=OFF
 toggle_tone=ON
 macro_disable=OFF

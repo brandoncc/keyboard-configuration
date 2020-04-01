@@ -8,10 +8,10 @@
 [kp-rctrl]>[kp-rwin]
 [rwin]>[rctrl]
 [kp-rwin]>[kp-rctrl]
-{lalt}{h}>{lalt}{-lalt}{left}{+lalt}
+{lalt}{h}>{lalt}{left}
 {lalt}{j}>{lalt}{down}
 {lalt}{k}>{lalt}{up}
-{lalt}{l}>{lalt}{-lalt}{right}{+lalt}
+{lalt}{l}>{lalt}{right}
 {lalt}{y}>{lalt}{-lshift}{obrack}{+lshift}
 {lalt}{u}>{lalt}{-lshift}{cbrack}{+lshift}
 {lalt}{i}>{lalt}{obrack}
@@ -20,3 +20,5 @@
 {lalt}{\}>{lalt}{-lshift}{.}{+lshift}
 {lalt}{9}>{lalt}{-lshift}{9}{+lshift}
 {lalt}{0}>{lalt}{-lshift}{0}{+lshift}
+{lalt}{lshift}{h}>{-lalt}{left}{+lalt}
+{lalt}{lshift}{l}>{-lalt}{right}{+lalt}
