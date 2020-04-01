@@ -26,7 +26,7 @@
 {lalt}{0}>{-lshift}{0}{+lshift}
 {lalt}{lshift}{h}>{left}
 {lalt}{lshift}{l}>{right}
-{y}>{y}{d125}{u}{d125}{I}{d125}{space}{d125}{f}{d125}{i}{d125}{s}{d125}{h}{d125}{enter}{y}{d125}{u}{d125}{i}{d125}{space}{d125}{c}{d125}{h}{d125}{o}{d125}{p}{d125}{enter}{y}{d125}{u}{d125}{i}{d125}{space}{d125}{m}{d125}{i}{d125}{n}{d125}{e}{d125}{enter}
+{y}>{speed3}{y}{d125}{u}{d125}{I}{d125}{space}{d125}{f}{d125}{i}{d125}{s}{d125}{h}{d125}{enter}{y}{d125}{u}{d125}{i}{d125}{space}{d125}{c}{d125}{h}{d125}{o}{d125}{p}{d125}{enter}{y}{d125}{u}{d125}{i}{d125}{space}{d125}{m}{d125}{i}{d125}{n}{d125}{e}{d125}{enter}
 {4}>{y}{u}{i}{space}{-rshift}{4}{+rshift}{enter}
 {s}>{y}{u}{i}{space}{s}{k}{i}{l}{l}{s}{enter}
 {g}>{y}{u}{i}{space}{g}{u}{i}{l}{d}{enter}
