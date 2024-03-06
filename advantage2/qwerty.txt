@@ -8,6 +8,7 @@
 [kp-rctrl]>[kp-rwin]
 [rwin]>[rctrl]
 [kp-rwin]>[kp-rctrl]
+[pdown]>[lalt]
 {lalt}{y}>{-lshift}{obrack}{+lshift}
 {lalt}{u}>{-lshift}{cbrack}{+lshift}
 {lalt}{i}>{obrack}
